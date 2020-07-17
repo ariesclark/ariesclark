@@ -1,4 +1,4 @@
 [![Discord](https://img.shields.io/discord/418093857394262020?label=discord&style=for-the-badge)](https://discord.gg/WUgGJhS)
 [![Website](https://img.shields.io/website?label=ruby.js.org&style=for-the-badge&url=https%3A%2F%2Fruby.js.org)](https://ruby.js.org)
-![Hentai](https://cdn.discordapp.com/attachments/538086881435582465/733385177409126410/lucifer_judgement_and_justice_helltaker_drawn_by_gram_quartz__sample-67fb4584a56c428d21f53a90fc4bd21.png)
-![Animated Hentai](https://cdn.discordapp.com/attachments/538086881435582465/730241921821442179/66ee95b.gif)
+![Anime](https://get.wallhere.com/photo/Helltaker-demon-girl-demon-girls-simple-background-tail-demon-horns-blond-hair-business-suit-red-eyes-anime-anime-girls-heart-eyes-blushing-1870429.jpg)
+![Anime #2](https://d.facdn.net/art/droll3/1591846763/1591846795.droll3_helltaker-rick_and_morty_-_colored.png)
