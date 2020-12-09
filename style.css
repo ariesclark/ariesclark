@@ -4,4 +4,6 @@ html {
   --pdark: black;
   --sdark: #1c1c1c;
   --tdark: #2f2f2f;
+  
+  font-family: 'Source Code Pro', monospace;
 }
