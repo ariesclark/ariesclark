@@ -1738,7 +1738,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="24.204204204204206 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="24.35935935935936 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1761,12 +1761,12 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 180k out of 290m repositories</span>
+                                    <span class="gh">ranked 179k out of 290m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">157</div>
+                                        <div class="value">158</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 157 stars</div>
+                                <div class="text">Maintaining a repository with 158 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2152,7 +2152,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Mar 2022, 20:06:37 (timezone America/Edmonton) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 19 Mar 2022, 21:06:48 (timezone America/Edmonton) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
