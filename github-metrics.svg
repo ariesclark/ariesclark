@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1456" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1491" class="">
     <defs>
         <style/>
     </defs>
@@ -39,8 +39,8 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
@@ -95,7 +95,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            979 Commits
+                            997 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -251,14 +251,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="355.16429271651015" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="355.16429271651015" y="0" width="53.86140446576692" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="409.02569718227704" y="0" width="20.22863330365948" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="429.2543304859365" y="0" width="12.253721215686081" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="441.5080517016226" y="0" width="7.233477572534759" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="448.74152927415736" y="0" width="6.051192690022665" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="454.79272196418003" y="0" width="4.631236620431129" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="459.42395858461117" y="0" width="0.5760414153888326" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="355.01888316061536" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="355.01888316061536" y="0" width="54.028977734142245" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="409.04786089475755" y="0" width="20.219837859923445" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="429.267698754681" y="0" width="12.248393277120401" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="441.5160920318014" y="0" width="7.230332444337019" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="448.74642447613843" y="0" width="6.048561621277583" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="454.79498609741603" y="0" width="4.629222950970035" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="459.42420904838605" y="0" width="0.575790951613914" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -356,7 +356,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.72
+                            Average per day at ~2.74
                         </div>
                     </section>
                 </div>
@@ -1276,14 +1276,14 @@
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.879310344827586 1.7,2.8793103448275863 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.637931034482759)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3620689655172415 0,1.3620689655172413 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3620689655172413 1.7,2.3620689655172415 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3620689655172415 0,1.3620689655172413 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3620689655172413 1.7,2.3620689655172415 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.637931034482758)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3620689655172415 0,1.3620689655172413 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3620689655172413 1.7,2.3620689655172415 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3620689655172415 0,1.3620689655172413 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3620689655172413 1.7,2.3620689655172415 z"/>
                             </g>
                             <g transform="translate(-6.8, 10)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1322,10 +1322,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0517241379310347 0,1.0517241379310345 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0517241379310345 1.7,2.0517241379310347 z"/>
                             </g>
-                            <g transform="translate(-6.8, 8.758620689655173)">
+                            <g transform="translate(-6.8, 8.551724137931034)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2413793103448274 0,2.2413793103448274 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2413793103448274 1.7,3.2413793103448274 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4482758620689653 0,2.4482758620689653 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4482758620689653 1.7,3.4482758620689653 z"/>
                             </g>
                         </g>
                     </g>
@@ -1344,15 +1344,21 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
-                      repository
+                                        Pushed 1 commit in
                                         <span class="repo">ariesclark/raphtalia</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">7 Apr 2022, 22:21:10</div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5d0dc1b</div>
+                                        <div class="message">fix(design): make commits align to top if less than 8</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">8 Apr 2022, 00:08:08</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -1363,17 +1369,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ariesclark/state</span>
+                                        <span class="repo">ariesclark/raphtalia</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#81f43e5</div>
-                                        <div class="message">Update package.json</div>
+                                        <div class="sha">#34d9431</div>
+                                        <div class="message">feat(caching): add one hour cache on banner api</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">7 Apr 2022, 18:11:04</div>
+                                <div class="timestamp">8 Apr 2022, 00:05:44</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -1384,17 +1390,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ariesclark/state</span>
+                                        <span class="repo">ariesclark/raphtalia</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9496ea0</div>
-                                        <div class="message">Update README.md</div>
+                                        <div class="sha">#3f763ad</div>
+                                        <div class="message">fix: make banner link to website</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">7 Apr 2022, 18:10:47</div>
+                                <div class="timestamp">7 Apr 2022, 23:57:06</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -1404,18 +1410,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">ariesclark/state</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">ariesclark/raphtalia</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8fcb4be</div>
-                                        <div class="message">Merge branch 'master' of https://github.com/ariesclark/state</div>
+                                        <div class="sha">#479ac9e</div>
+                                        <div class="message">feat: update readme with epic banner</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">7 Apr 2022, 03:47:37</div>
+                                <div class="timestamp">7 Apr 2022, 23:54:42</div>
                             </section>
                         </div>
                     </section>
@@ -1635,7 +1641,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="84.89949748743719 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="88.01507537688443 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1657,10 +1663,10 @@
                                     <span class="prefix"></span>
                                     Deployer
                                     <div class="value-wrapper">
-                                        <div class="value">110</div>
+                                        <div class="value">114</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 110 times</div>
+                                <div class="text">Repositories have been deployed 114 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2131,7 +2137,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Apr 2022, 23:07:08 (timezone America/Edmonton) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 8 Apr 2022, 00:09:18 (timezone America/Edmonton) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
