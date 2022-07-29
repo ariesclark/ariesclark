@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1512" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1460" class="">
     <defs>
         <style/>
     </defs>
@@ -89,7 +89,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            767 Commits
+                            760 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -108,7 +108,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            19 Issues opened
+                            20 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -245,14 +245,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="354.0243138154648" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="354.0243138154648" y="0" width="55.15158822403428" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="409.1759020394991" y="0" width="20.16561663846319" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="429.34151867796226" y="0" width="12.215548164859271" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="441.55706684282154" y="0" width="7.210943690608549" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="448.76801053343013" y="0" width="6.0432242841316715" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="454.8112348175618" y="0" width="4.616809294413919" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="459.4280441119757" y="0" width="0.5719558880243659" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="354.0220069524867" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="354.0220069524867" y="0" width="55.154226262655946" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="409.17623321514264" y="0" width="20.165485236995444" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="429.3417184521381" y="0" width="12.215468566948283" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="441.55718701908637" y="0" width="7.210896703273534" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="448.7680837223599" y="0" width="6.043184905790057" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="454.81126862814995" y="0" width="4.616779210755756" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="459.4280478389057" y="0" width="0.5719521610942889" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1338,6 +1338,45 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#913 Request.clone doesn't clone body</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">oven-sh/bun</span></div>
+                                </div>
+                                <div class="timestamp">29 Jul 2022, 04:04:00</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ariesclark/oily.js</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f42867c</div>
+                                        <div class="message">clean up source + modify examples</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">29 Jul 2022, 03:32:04</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1377,56 +1416,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">29 Jul 2022, 00:08:12</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">ariesclark/oily.js</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3cfc292</div>
-                                        <div class="message">patch version (0.1.5)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb53d2c</div>
-                                        <div class="message">add support for root index route</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">28 Jul 2022, 18:22:35</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">ariesclark/oily.js</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5feca2b</div>
-                                        <div class="message">patch version (0.1.4)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e62f7d8</div>
-                                        <div class="message">add support for index rotues</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">28 Jul 2022, 17:42:49</div>
                             </section>
                         </div>
                     </section>
@@ -2181,7 +2170,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jul 2022, 03:07:17 (timezone America/Edmonton) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 29 Jul 2022, 04:07:50 (timezone America/Edmonton) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
