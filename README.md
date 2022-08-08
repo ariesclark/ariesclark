@@ -14,8 +14,12 @@
     </a>
   </div>
   <hr/>
-  <p>I'm Aries, a proud 20-year-old Canadian software engineer with a passion for creating (and occasionally designing) things and services that challenge our perceptions of the ever changing internet.</p>
-  <p>I began developing software when I was pretty young, at the age of eleven. I've done a lot of various things in those 11 years, from building Minecraft mods in Java to writing a lot of terrible PHP websites to getting to where I am now.</p>
-  <p>Recently, I've been concentrating on using current languages like TypeScript to build web-based applications and services using React and Next.js, among other tools.</p>
-  <hr/>
+  <div>
+    <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" width="40%"/>
+    <div>
+      <p>I'm Aries, a proud 20-year-old Canadian software engineer with a passion for creating (and occasionally designing) things and services that challenge our perceptions of the ever changing internet.</p>
+      <p>I began developing software when I was pretty young, at the age of eleven. I've done a lot of various things in those 11 years, from building Minecraft mods in Java to writing a lot of terrible PHP websites to getting to where I am now.</p>
+      <p>Recently, I've been concentrating on using current languages like TypeScript to build web-based applications and services using React and Next.js, among other tools.</p>
+    </div>
+  </div>
 </div>
