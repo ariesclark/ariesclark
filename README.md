@@ -15,7 +15,9 @@
   </div>
   <hr/>
   <div>
-    <img align="right" src="https://ariesclark.com/images/self.jpg" width="40%" height="100%"/>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+      <img align="right" src="https://i.imgur.com/2OlvH3w.png" width="40%"/>
+    </a>
     <div>
       <p>I'm Aries, a proud 20-year-old Canadian software engineer with a passion for creating (and occasionally designing) things and services that challenge our perceptions of the ever changing internet.</p>
       <p>I began developing software when I was pretty young, at the age of eleven. I've done a lot of various things in those 11 years, from building Minecraft mods in Java to writing a lot of terrible PHP websites to getting to where I am now.</p>
