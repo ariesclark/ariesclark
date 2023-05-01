@@ -15,13 +15,10 @@
   </div>
   <hr/>
   <div>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-      <img align="right" src="https://i.imgur.com/2OlvH3w.png" width="40%"/>
-    </a>
     <div>
-      <p>I'm Aries, a proud 20-year-old Canadian software engineer with a passion for creating (and occasionally designing) things and services that challenge our perceptions of the ever changing internet.</p>
-      <p>I began developing software when I was pretty young, at the age of eleven. I've done a lot of various things in those 11 years, from building Minecraft mods in Java to writing a lot of terrible PHP websites to getting to where I am now.</p>
-      <p>Recently, I've been concentrating on using current languages like TypeScript to build web-based applications and services using React and Next.js, among other tools.</p>
+      <p>Hi there! I'm Aries, a 20-year-old Canadian software engineer who is passionate about creating innovative digital products and services. I love to challenge the conventional perceptions of the constantly evolving internet.</p>
+      <p>I started developing software at a young age of eleven, and over the past 9 years, I have explored a wide range of technologies, from building Minecraft mods in Java to creating not-so-great PHP websites to where I am today.</p>
+      <p>Currently, my focus is on building web-based applications and services using modern languages such as TypeScript, as well as utilizing tools like React and Next.js to create high-quality user experiences.</p> 
     </div>
   </div>
 </div>
