@@ -16,9 +16,7 @@
   <hr/>
   <div>
     <div>
-      <p>Hi there! I'm Aries, a 20-year-old Canadian software engineer who is passionate about creating innovative digital products and services. I love to challenge the conventional perceptions of the constantly evolving internet.</p>
-      <p>I started developing software at a young age of eleven, and over the past 9 years, I have explored a wide range of technologies, from building Minecraft mods in Java to creating not-so-great PHP websites to where I am today.</p>
-      <p>Currently, my focus is on building web-based applications and services using modern languages such as TypeScript, as well as utilizing tools like React and Next.js to create high-quality user experiences.</p> 
+      <p>I'm Aries, a 21-year-old Canadian software engineer, I've spent the last decade developing various platforms and services. </p> 
     </div>
   </div>
 </div>
